@@ -1,0 +1,28 @@
+.functions{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+
+
+
+}
+button{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #00ff00;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    border: 1px solid #00ff00;
+}
+button:hover{
+    background-color:transparent;
+    color: #00ff00;
+}
